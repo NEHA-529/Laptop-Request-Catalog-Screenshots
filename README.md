@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>2</td>
-    <td>Neha. N</td>
+    <td>Mirjahan Sahitha. S</td>
     <td style="color:#795548;">Member</td>
   </tr>
   <tr>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>4</td>
-    <td>Mirjahan Sahitha. S</td>
+    <td>Neha. N</td>
     <td style="color:#795548;">Member</td>
   </tr>
 </table>

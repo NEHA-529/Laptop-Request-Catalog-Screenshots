@@ -1,3 +1,5 @@
+<div style="font-family:'Times New Roman', serif;">
+
 # 💻 Laptop Request Catalog - Screenshots  
 
 ## 📌 Project Title  
@@ -57,3 +59,5 @@
   <img src="./IMG_20250905_152055.jpg"><br>
   <img src="./Screenshot_2025-09-05-14-47-45-116_com.android.chrome-edit.jpg"><br>
 </p>
+
+</div>

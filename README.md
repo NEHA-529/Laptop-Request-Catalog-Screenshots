@@ -5,11 +5,11 @@
 
 ## 👥 Team Members
 
-<table style="width:100%; border:2px solid #4CAF50; text-align:center;">
+<table style="width:100%; border:2px solid #4CAF50; border-collapse:collapse; text-align:center;">
   <tr style="background-color:#f2f2f2;">
-    <th style="color:#2196F3; padding:8px;">S.No</th>
-    <th style="color:#9C27B0; padding:8px;">Name</th>
-    <th style="color:#009688; padding:8px;">Role</th>
+    <th style="color:#2196F3; padding:12px; width:10%;">S.No</th>
+    <th style="color:#9C27B0; padding:12px; width:45%;">Name</th>
+    <th style="color:#009688; padding:12px; width:45%;">Role</th>
   </tr>
   <tr>
     <td>1</td>

@@ -37,21 +37,21 @@
 
 ## 📸 <span style="color:#E91E63;">Project Screenshots</span>  
 
-<img src="./Screenshot_2025-09-05-14-46-34-889_com.android.chrome-edit.jpg" width="300">  
-<img src="./Screenshot_2025-09-05-14-46-49-702_com.android.chrome-edit.jpg" width="300">  
-<img src="./Screenshot_2025-09-05-14-47-08-313_com.android.chrome-edit.jpg" width="300">  
-<img src="./IMG_20250905_151615.jpg" width="300">  
-<img src="./IMG_20250905_151643.jpg" width="300">  
-<img src="./IMG_20250905_151701.jpg" width="300">  
-<img src="./IMG_20250905_151721.jpg" width="300">  
-<img src="./IMG_20250905_151735.jpg" width="300">  
-<img src="./IMG_20250905_151749.jpg" width="300">  
-<img src="./IMG_20250905_151805.jpg" width="300">  
-<img src="./IMG_20250905_151818.jpg" width="300">  
-<img src="./IMG_20250905_151831.jpg" width="300">  
-<img src="./IMG_20250905_151905.jpg" width="300">  
-<img src="./IMG_20250905_152003.jpg" width="300">  
-<img src="./IMG_20250905_152028.jpg" width="300">  
-<img src="./IMG_20250905_152043.jpg" width="300">  
-<img src="./IMG_20250905_152055.jpg" width="300">  
-<img src="./Screenshot_2025-09-05-14-47-45-116_com.android.chrome-edit.jpg" width="300">
+<img src="./Screenshot_2025-09-05-14-46-34-889_com.android.chrome-edit.jpg">  
+<img src="./Screenshot_2025-09-05-14-46-49-702_com.android.chrome-edit.jpg">  
+<img src="./Screenshot_2025-09-05-14-47-08-313_com.android.chrome-edit.jpg">  
+<img src="./IMG_20250905_151615.jpg">  
+<img src="./IMG_20250905_151643.jpg">  
+<img src="./IMG_20250905_151701.jpg">  
+<img src="./IMG_20250905_151721.jpg">  
+<img src="./IMG_20250905_151735.jpg">  
+<img src="./IMG_20250905_151749.jpg">  
+<img src="./IMG_20250905_151805.jpg">  
+<img src="./IMG_20250905_151818.jpg">  
+<img src="./IMG_20250905_151831.jpg">  
+<img src="./IMG_20250905_151905.jpg">  
+<img src="./IMG_20250905_152003.jpg">  
+<img src="./IMG_20250905_152028.jpg">  
+<img src="./IMG_20250905_152043.jpg">  
+<img src="./IMG_20250905_152055.jpg">  
+<img src="./Screenshot_2025-09-05-14-47-45-116_com.android.chrome-edit.jpg">

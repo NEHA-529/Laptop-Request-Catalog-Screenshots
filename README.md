@@ -5,7 +5,7 @@
 
 ## 👥 Team Members  
 
-<table style="border-collapse:collapse; text-align:center; font-family:'Times New Roman', serif;">
+<table style="border-collapse:collapse; text-align:center;">
   <tr>
     <th style="padding:8px;">S.No</th>
     <th style="padding:8px;">Name</th>
@@ -13,22 +13,22 @@
   </tr>
   <tr>
     <td>1</td>
-    <td><b>Divyabharathi. M</b></td>
+    <td style="font-family:'Times New Roman', serif; font-weight:bold;">Divyabharathi. M</td>
     <td><b>Team Leader</b></td>
   </tr>
   <tr>
     <td>2</td>
-    <td><b>Mirjahan Sahitha. S</b></td>
+    <td style="font-family:'Times New Roman', serif; font-weight:bold;">Mirjahan Sahitha. S</td>
     <td><b>Member</b></td>
   </tr>
   <tr>
     <td>3</td>
-    <td><b>Vishnupriya. S</b></td>
+    <td style="font-family:'Times New Roman', serif; font-weight:bold;">Vishnupriya. S</td>
     <td><b>Member</b></td>
   </tr>
   <tr>
     <td>4</td>
-    <td><b>Neha. N</b></td>
+    <td style="font-family:'Times New Roman', serif; font-weight:bold;">Neha. N</td>
     <td><b>Member</b></td>
   </tr>
 </table>  

@@ -1,39 +1,36 @@
-# 📸 Laptop Request Catalog – Screenshots
+# 💻 Laptop Request Catalog - Screenshots
 
-This repository contains a collection of screenshots showcasing the **Laptop Request Catalog** project.  
-The images are arranged in sequential order to demonstrate the user interface and workflow.
-
----
-
-## 🖼 Screenshots
-
-![](Screenshot%202025-09-05-14-46-34-889_com.android.chrome-edit.jpg)
-![](Screenshot%202025-09-05-14-46-49-702,com.android.chrome-edit.jpg)
-![](Screenshot%202025-09-05-14-47-08-313.com.android.chrome-edit.jpg)
-![](IMG%2020250905%20151615.jpg)
-![](IMG%2020250905%20151643.jpg)
-![](IMG%2020250905.151701.jpg)
-![](IMG%2020250905_151721.jpg)
-![](IMG%2020250905_151735.jpg)
-![](IMG%2020250905.151749.jpg)
-![](IMG%2020250905.151805.jpg)
-![](IMG%2020250905_151818.jpg)
-![](IMG%2020250905.151831.jpg)
-![](IMG%2020250905.151905.jpg)
-![](IMG%2020250905%20152003.jpg)
-![](IMG%2020250905%20152028.jpg)
-![](IMG%2020250905-152043.jpg)
-![](IMG%2020250905%20152055.jpg)
-![](Screenshot%202025-09-05-14-47-45-116%20com.android.chrome-edit.jpg)
-
----
+## 📌 Project Title
+**Laptop Request Catalog (Naan Mudhalvan Project)**
 
 ## 👥 Team Members
 
-- **Divyabharathi M.** (Team Leader)  
-- **Neha N.**  
-- **Vishnupriya S.**  
-- **Mirjahan Sahitha S.**
+| S.No | Name              | Role         |
+|------|-------------------|--------------|
+| 1    | Divyabharathi. M  | Team Leader  |
+| 2    | Neha. N           | Member       |
+| 3    | Vishnupriya. S    | Member       |
+| 4    | Mirjahan Sahitha. S | Member     |
 
 ---
 
+## 📸 Project Screenshots  
+
+![Screenshot 1](./Screenshot_2025-09-05-14-46-34-889_com.android.chrome-edit.jpg)  
+![Screenshot 2](./Screenshot_2025-09-05-14-46-49-702_com.android.chrome-edit.jpg)  
+![Screenshot 3](./Screenshot_2025-09-05-14-47-08-313_com.android.chrome-edit.jpg)  
+![Screenshot 4](./IMG_20250905_151615.jpg)  
+![Screenshot 5](./IMG_20250905_151643.jpg)  
+![Screenshot 6](./IMG_20250905_151701.jpg)  
+![Screenshot 7](./IMG_20250905_151721.jpg)  
+![Screenshot 8](./IMG_20250905_151735.jpg)  
+![Screenshot 9](./IMG_20250905_151749.jpg)  
+![Screenshot 10](./IMG_20250905_151805.jpg)  
+![Screenshot 11](./IMG_20250905_151818.jpg)  
+![Screenshot 12](./IMG_20250905_151831.jpg)  
+![Screenshot 13](./IMG_20250905_151905.jpg)  
+![Screenshot 14](./IMG_20250905_152003.jpg)  
+![Screenshot 15](./IMG_20250905_152028.jpg)  
+![Screenshot 16](./IMG_20250905_152043.jpg)  
+![Screenshot 17](./IMG_20250905_152055.jpg)  
+![Screenshot 18](./Screenshot_2025-09-05-14-47-45-116_com.android.chrome-edit.jpg)

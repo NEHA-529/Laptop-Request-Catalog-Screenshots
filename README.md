@@ -5,8 +5,8 @@
 
 ## 👥 Team Members
 
-<table style="border:2px solid black; border-collapse:collapse; text-align:center; font-family:'Times New Roman', serif;">
-  <tr style="background-color:#f2f2f2;">
+<table style="border-collapse:collapse; text-align:center; font-family:'Times New Roman', serif;">
+  <tr>
     <th style="padding:8px;">S.No</th>
     <th style="padding:8px;">Name</th>
     <th style="padding:8px;">Role</th>
